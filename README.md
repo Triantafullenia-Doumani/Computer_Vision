@@ -23,7 +23,8 @@ a1....a6 are the values of Affine matrix.
 
 
 ![brain](https://user-images.githubusercontent.com/81445900/113358336-4cca7180-934e-11eb-9e57-c46f7f4d1ee7.png)
-![brainAfterTransformation](https://user-images.githubusercontent.com/81445900/113358337-4d630800-934e-11eb-9404-b9acba95d7a9.png)
+
+![brainAfterTransformation](https://user-images.githubusercontent.com/81445900/113361894-b306c280-9355-11eb-9402-2f33dd1403ec.png)
 
 
 
