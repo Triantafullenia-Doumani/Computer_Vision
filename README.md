@@ -9,7 +9,7 @@ Run the python programm : python3 thresholding.py 'inputfilename' 'outputfilenam
   
   
 ![balloons](https://user-images.githubusercontent.com/81445900/113358868-425ca780-934f-11eb-8737-e709332ecad4.png)
-![thershold](https://user-images.githubusercontent.com/81445900/113361625-12b09e00-9355-11eb-803a-0051ec61719d.png)
+![thershold](https://user-images.githubusercontent.com/81445900/113361782-615e3800-9355-11eb-8234-59459dce9880.png)
 
 
 AFFINE TRANSFORMATION
