@@ -9,7 +9,6 @@ Run the python programm : python3 thresholding.py 'inputfilename' 'outputfilenam
   
   
 ![balloons](https://user-images.githubusercontent.com/81445900/113358868-425ca780-934f-11eb-8737-e709332ecad4.png)
-
 ![thershold](https://user-images.githubusercontent.com/81445900/113362112-4213da80-9356-11eb-84b8-ddb20cb7595f.png)
 
 
@@ -24,7 +23,6 @@ a1....a6 are the values of Affine matrix.
 
 
 ![brain](https://user-images.githubusercontent.com/81445900/113358336-4cca7180-934e-11eb-9e57-c46f7f4d1ee7.png)
-
 ![brainT](https://user-images.githubusercontent.com/81445900/113362183-77b8c380-9356-11eb-9a32-ed366117b1fe.png)
 
 
