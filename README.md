@@ -15,7 +15,7 @@ AFFINE TRANSFORMATION
 
 Covert image with affine transformation
 
-Run the python programm : python3 affine_transformation.py. input filelename output filelename a1 a2 a3 a4 a5 a6.
+Run the python programm : python3 affine_transformation.py. 'inputfilelename' 'outputfilelename' 'a1' 'a2' 'a3' 'a4' 'a5' 'a6'.
   
 a1....a6 are the values of Affine matrix.
 
