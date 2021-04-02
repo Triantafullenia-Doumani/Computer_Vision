@@ -21,7 +21,7 @@ window size is the size of the neighborhood of pixels
 for window size = 15
 
 ![trikoupi6_low](https://user-images.githubusercontent.com/81445900/113429856-dc6d3000-93e1-11eb-856f-c48f40f24b53.png)
-![15](https://user-images.githubusercontent.com/81445900/113429849-db3c0300-93e1-11eb-93f6-f7c75125c56f.png)
+![otsu](https://user-images.githubusercontent.com/81445900/113430136-543b5a80-93e2-11eb-993a-0d44d7473d3a.png)
 
 
 AFFINE TRANSFORMATION
