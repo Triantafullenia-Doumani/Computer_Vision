@@ -11,6 +11,17 @@ Run the python programm : python3 thresholding.py 'inputfilename' 'outputfilenam
 ![balloons](https://user-images.githubusercontent.com/81445900/113358868-425ca780-934f-11eb-8737-e709332ecad4.png)
 ![thershold](https://user-images.githubusercontent.com/81445900/113362112-4213da80-9356-11eb-84b8-ddb20cb7595f.png)
 
+THRESHOLDING with modified Otsu algorithm
+
+Run the python programm : python3 adaptive.py 'inputfielename' 'outputfilelename' 'window
+size'
+
+window size is the size of the neighborhood of pixels
+
+for window size = 15
+
+![trikoupi6_low](https://user-images.githubusercontent.com/81445900/113429856-dc6d3000-93e1-11eb-856f-c48f40f24b53.png)
+![15](https://user-images.githubusercontent.com/81445900/113429849-db3c0300-93e1-11eb-93f6-f7c75125c56f.png)
 
 
 AFFINE TRANSFORMATION
