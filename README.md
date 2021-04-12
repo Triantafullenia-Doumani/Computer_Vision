@@ -1,7 +1,7 @@
 # Computer_Vision
 Simple tasks with thresholding techniques and affine transformation.
 
-THRESHOLDING
+# THRESHOLDING
 
 Covert image with thresholding techniques.
 
@@ -11,7 +11,7 @@ Run the python programm : python3 thresholding.py 'inputfilename' 'outputfilenam
 ![balloons](https://user-images.githubusercontent.com/81445900/113358868-425ca780-934f-11eb-8737-e709332ecad4.png)
 ![thershold](https://user-images.githubusercontent.com/81445900/113362112-4213da80-9356-11eb-84b8-ddb20cb7595f.png)
 
-THRESHOLDING with modified Otsu algorithm
+# THRESHOLDING with modified Otsu algorithm
 
 Run the python programm : python3 adaptive.py 'inputfielename' 'outputfilelename' 'window
 size'
@@ -24,7 +24,7 @@ for window size = 15
 ![otsu](https://user-images.githubusercontent.com/81445900/113430136-543b5a80-93e2-11eb-993a-0d44d7473d3a.png)
 
 
-AFFINE TRANSFORMATION
+# AFFINE TRANSFORMATION
 
 Covert image with affine transformation
 
