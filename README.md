@@ -8,7 +8,6 @@ Covert image with thresholding techniques.
 
 Run the python programm : python3 thresholding.py 'inputfilename' 'outputfilename' 'theshold k'
   
-  
 ![balloons](https://user-images.githubusercontent.com/81445900/113358868-425ca780-934f-11eb-8737-e709332ecad4.png)
 ![thershold](https://user-images.githubusercontent.com/81445900/113362112-4213da80-9356-11eb-84b8-ddb20cb7595f.png)
 
