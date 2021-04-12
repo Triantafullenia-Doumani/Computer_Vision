@@ -1,4 +1,5 @@
 # Computer_Vision
+
 Simple tasks with thresholding techniques and affine transformation.
 
 # THRESHOLDING
