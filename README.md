@@ -2,6 +2,7 @@
 
 Simple tasks with thresholding techniques and affine transformation.
 
+
 # THRESHOLDING
 
 Covert image with thresholding techniques.
